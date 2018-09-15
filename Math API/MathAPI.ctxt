@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=x\ y
+comment1.target=int\ add(int,\ int)
+comment2.params=x\ y
+comment2.target=int\ subtract(int,\ int)
+comment3.params=x\ y
+comment3.target=int\ multiply(int,\ int)
+comment4.params=x\ y
+comment4.target=java.lang.String\ divide(int,\ int)
+comment5.params=x\ y
+comment5.target=int\ modulo(int,\ int)
+comment6.params=x
+comment6.target=int\ factorialOf(int)
+comment7.params=x\ y
+comment7.target=int\ power(int,\ int)
+comment8.params=d
+comment8.target=double\ log2(double)
+numComments=9
